@@ -1,0 +1,19 @@
+ENCARTFY — LANDING PAGE COM PLANOS E VÍDEOS CORRIGIDOS
+
+ALTERAÇÕES DESTA VERSÃO
+- Plano Individual: R$ 89,90/mês, com direito a 1 serial para 1 computador
+- Plano Agência: R$ 149,90/mês, com direito a uso em até 3 computadores
+- Pasta de imagens com mais de 5 mil itens: R$ 9,90 em pagamento único
+- Botões de cada plano abrem o WhatsApp com a opção escolhida
+- Vídeos passaram a carregar somente após o clique
+- Ao abrir o HTML diretamente no computador, os vídeos são abertos no YouTube para evitar o erro 153
+- Quando publicado em HTTPS, o vídeo é reproduzido dentro da landing page
+
+PUBLICAÇÃO NO GITHUB
+1. Substitua o index.html antigo por este novo arquivo.
+2. Mantenha os arquivos CNAME e .nojekyll na raiz.
+3. Faça o commit.
+4. Aguarde a publicação e atualize com Ctrl + F5.
+
+DOMÍNIO
+encartfy.com.br
